@@ -1,17 +1,8 @@
-# flutter_dart
+# Identitas
+Nama                : Al Jatsiya Profitar Taqwala  
+NIM                 : H1D024095  
+Shift Awal & Baru   : B
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshot
+## Display Tugas Flutter 1
+<img width="1920" height="1080" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/74270d0c-cba3-4be3-8ee0-19f3f386b34b" />

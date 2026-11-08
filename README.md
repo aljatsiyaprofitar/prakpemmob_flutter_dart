@@ -16,3 +16,7 @@ Shift Awal & Baru   : B
 
 ### Screenshot 3
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/098b5e74-8631-4bbf-92cc-99ddcfb6e85f" />
+
+## Display Tugas Flutter 3
+### Screen Record
+https://github.com/user-attachments/assets/ac2b150a-c29f-4cd5-a7e6-986272787a5a

@@ -20,3 +20,7 @@ Shift Awal & Baru   : B
 ## Display Tugas Flutter 3
 ### Screen Record
 https://github.com/user-attachments/assets/ac2b150a-c29f-4cd5-a7e6-986272787a5a
+
+## Display Tugas Flutter 4
+### Screen Record
+https://github.com/user-attachments/assets/a3a00083-3d11-445c-b99d-7272b6b958f3
